@@ -1,0 +1,35 @@
+Windows PowerShell
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\asus\Documents\WEB_DEV\Training Projects\Zoom Clone> npm init -y
+
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+PS C:\Users\asus\Documents\WEB_DEV\Training Projects\Zoom Clone> npm i express ejs socket.io
+
+added 87 packages, and audited 88 packages in 11s
+
+found 0 vulnerabilities
+PS C:\Users\asus\Documents\WEB_DEV\Training Projects\Zoom Clone> npm i uuid
+
+added 1 package, and audited 89 packages in 4s
+
+found 0 vulnerabilities
+PS C:\Users\asus\Documents\WEB_DEV\Training Projects\Zoom Clone> npm nodemon  --save-dev 
+Unknown command: "nodemon"
+
+To see a list of supported npm commands, run:
+  npm help
+PS C:\Users\asus\Documents\WEB_DEV\Training Projects\Zoom Clone> 
