@@ -1,0 +1,2 @@
+# Zoom-Clone-Project
+# Zoom Clone Project  This is a basic Zoom Clone web application. This works fine in a local host device so to connect more than 1 users you need to use same URL you logged in with and different camera as well , you can use mobile phone as spare .  # RESOURCES:     https://www.youtube.com/watch?v=DvlyzDZDEq4     https://www.geeksforgeeks.org/use-ejs-as-template-engine-in-node-js/     https://stackoverflow.com/questions/63322276/build-a-zoom-clone-with-node-js-peer-to-peer-connection     https://www.youtube.com/watch?v=ZVznzY7EjuY
